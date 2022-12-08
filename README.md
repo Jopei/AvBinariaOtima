@@ -1,0 +1,2 @@
+# AvBinariaOtima
+Código Compartilhado 
